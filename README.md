@@ -24,7 +24,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/mao2116/mmail
+git clone https://github.com/arbolcaido184/Sdominio
 
 ```
 
@@ -41,7 +41,7 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 ### FOR RUN :
 
 ```
-cd mmail
+cd Sdominio
 
 python mmail.py
 
